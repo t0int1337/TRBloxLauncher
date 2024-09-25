@@ -1,24 +1,9 @@
-# Syntax Launcher
+# TrBlox Launcher
 
 ![build_status](https://img.shields.io/github/actions/workflow/status/mojavemf/syntax/main.yaml
 )
 
 ### This launcher will not work on outdated systems
-
-## This is not the offical launcher
-
-<details>
-<summary>Why should i use this over the official launcher?</summary>
-
-The offical launcher works fine but it is far from perfect.
-
-The official launcher is flawed. Has no user interface and is destructive on non windows platforms.
-
-I mean no offence to Austin but he clearly isnt a rust programmer since the project is badly formatted.
-
-I have also improved upon the launcher in speed by running multiple download jobs in sync and same with the extraction providing a faster launch speed.
-
-</details>
 
 ## How do i build?
 
