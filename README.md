@@ -15,7 +15,7 @@ Requirements:
 ### Instructions
 
 1. Pull the project
-`git clone https://github.com/MojaveMF/syntax.git`
+`git clone https://github.com/t0int1337/TRBloxLauncher`
 
 2. Open the project in a cli `cd syntax`
 
